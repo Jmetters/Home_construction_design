@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Oswald|Source+Sans+Pro|Ubuntu');
+
+
+body{
+	background: #bf8040;
+	overflow: hidden;
+	
+	
+}
+
+.container{
+
+	margin: 25px auto;
+	text-transform: uppercase;
+	
+
+
+
+
+
+}
+
+.first{
+	background: #fff;
+	height: 800px;
+	position: relative;
+	
+}
+
+.second{
+	background: #fff;
+	height:800px;
+	
+}
+
+.third{
+	background: grey;
+	height: 800px;
+
+
+}
+
+.inner-div-one{
+background: black;
+height: 300px;
+width:100%;
+position: absolute;
+top:500px;
+left:0px;
+
+}
+
+.inner-div-two{
+	background: black;
+height: 300px;
+width:100%;
+position: absolute;
+top:500px;
+left:0px;
+opacity: 0.7;
+
+}
+
+.inner-div-three{
+		background: black;
+height: 300px;
+width:100%;
+position: absolute;
+top:500px;
+left:0px;
+
+}
+
+img{
+	height: 300px;
+width:100%;
+background-size: cover;
+background-position: center;
+
+
+}
+
+.logo-text{
+	padding-top: 50%;
+	font-family: 'Oswald', sans-serif;
+}
+
+.news-intro{
+	padding-top: 135%;
+	font-family: 'Oswald', sans-serif;
+
+}
+
+nav ul{
+	padding-left: 0px;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+
+
+}
+
+
+ul li{
+	float: left;
+	list-style: none;
+	margin-left: 10px;
+	padding-left: 0px;
+}
+
+.Overview-content{
+	padding-top: 40%;
+	padding-left: 0px;
+	font-family: 'Oswald', sans-serif;
+	
+}
+
+.Overview-content, p{
+	text-transform: lowercase;
+}
+
+.bottom-overview{
+padding-top: 180px;
+font-family: 'Source Sans Pro', sans-serif;
+font-weight: bold
+
+
+}
+
+.bottom-logo{
+padding-top: 200px;
+font-family: 'Source Sans Pro', sans-serif;
+font-weight: bold
+
+}
+
+.bottom-news{
+	padding-top: 197px;
+	font-family: 'Source Sans Pro', sans-serif;
+font-weight: bold
+}
+
+
