@@ -3,7 +3,7 @@
 
 body{
 	background: #bf8040;
-	overflow: hidden;
+	
 	
 	
 }
@@ -13,11 +13,6 @@ body{
 	margin: 25px auto;
 	text-transform: uppercase;
 	
-
-
-
-
-
 }
 
 .first{
@@ -34,7 +29,7 @@ body{
 }
 
 .third{
-	background: grey;
+	background: #E5E6E6;
 	height: 800px;
 
 
@@ -81,7 +76,7 @@ background-position: center;
 }
 
 .logo-text{
-	padding-top: 50%;
+	padding-top: 55%;
 	font-family: 'Oswald', sans-serif;
 }
 
@@ -126,6 +121,11 @@ font-weight: bold
 
 }
 
+.logo-col{
+	background: #fff;
+	height: 800px;
+}
+
 .bottom-logo{
 padding-top: 200px;
 font-family: 'Source Sans Pro', sans-serif;
@@ -138,5 +138,3 @@ font-weight: bold
 	font-family: 'Source Sans Pro', sans-serif;
 font-weight: bold
 }
-
-
